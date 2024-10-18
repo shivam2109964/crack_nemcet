@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1042453978656",
+    "firebase_url": "https://lenspop-c4560-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lenspop-c4560",
+    "storage_bucket": "lenspop-c4560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042453978656:android:74466f5bb38ce704372645",
+        "android_client_info": {
+          "package_name": "com.nemcet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDCAmUgX4lea0m610qbfzPQNWRVAo7c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
